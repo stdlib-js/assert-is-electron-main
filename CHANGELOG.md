@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-03-06)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5814](https://github.com/stdlib-js/stdlib/issues/5814)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`8fe91fb`](https://github.com/stdlib-js/stdlib/commit/8fe91fb43e957de06c91f7cfcb77f6d806acac00) - **chore:** require process module to resolve lint error [(#5819)](https://github.com/stdlib-js/stdlib/pull/5819) _(by Anshu Kumar, Philipp Burckhardt)_
 -   [`2507d8e`](https://github.com/stdlib-js/stdlib/commit/2507d8eea8259c4ebc393a8150202b60c8302ec0) - **build:** support bundling of tests and benchmarks _(by Athan Reines)_
 
 </details>
@@ -24,9 +37,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Anshu Kumar
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 

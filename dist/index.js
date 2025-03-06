@@ -1,7 +1,7 @@
-"use strict";var e=function(c,r){return function(){return r||c((r={exports:{}}).exports,r),r.exports}};var t=e(function(q,s){
-s.exports=process
-});var o=e(function(x,i){
-var u=require('@stdlib/assert-is-electron/dist'),n=t();function a(){return u&&n.type==="browser"}i.exports=a
-});var p=o(),v=p();module.exports=v;
+"use strict";var e=function(u,r){return function(){return r||u((r={exports:{}}).exports,r),r.exports}};var t=e(function(x,s){
+var c=require("process");s.exports=c
+});var o=e(function(b,i){
+var a=require('@stdlib/assert-is-electron/dist'),n=t();function p(){return a&&n.type==="browser"}i.exports=p
+});var v=o(),q=v();module.exports=q;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
