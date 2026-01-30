@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2026-01-30)
 
 <section class="issues">
 
@@ -24,6 +24,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`8fe91fb`](https://github.com/stdlib-js/stdlib/commit/8fe91fb43e957de06c91f7cfcb77f6d806acac00) - **chore:** require process module to resolve lint error [(#5819)](https://github.com/stdlib-js/stdlib/pull/5819) _(by Anshu Kumar, Philipp Burckhardt)_
 -   [`2507d8e`](https://github.com/stdlib-js/stdlib/commit/2507d8eea8259c4ebc393a8150202b60c8302ec0) - **build:** support bundling of tests and benchmarks _(by Athan Reines)_
 
