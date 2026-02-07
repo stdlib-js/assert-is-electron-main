@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import IS_ELECTRON_MAIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-electron-main@esm/index.mjs';
+import IS_ELECTRON_MAIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-electron-main@v0.2.3-esm/index.mjs';
 ```
 
 #### IS_ELECTRON_MAIN
@@ -70,7 +70,7 @@ var bool = IS_ELECTRON_MAIN;
 <body>
 <script type="module">
 
-import IS_ELECTRON_MAIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-electron-main@esm/index.mjs';
+import IS_ELECTRON_MAIN from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-electron-main@v0.2.3-esm/index.mjs';
 
 console.log( IS_ELECTRON_MAIN );
 // => <boolean>
